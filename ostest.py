@@ -48,7 +48,7 @@ os.path.isfile('check.txt')						#//checking that file exist or not in True or F
 #.ignore extra work or some random work #
 # For graphic visual of code		#
 #import snoop @snoop			#
-#import heartrate			#
+#import heartrate		 	#
 #heartrate.trace (browser = True) 	#
 #from loguru import logger 		#
 #########################################
